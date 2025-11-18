@@ -1,0 +1,27 @@
+# 🛒 DMart Power BI Dashboard
+
+This repository contains a complete Power BI dashboard template for DMart, including:
+- Dataset (CSV)
+- Power BI Template (.pbit)
+- Theme JSON
+- KPI DAX measures
+- Dashboard layout guides
+
+## 📌 How to Use
+1. Download the repository.
+2. Open /template/DMart-Dashboard.pbit.txt
+3. Rename it to **DMart-Dashboard.pbit**
+4. Open with Power BI Desktop.
+5. Load the CSV files from the /data folder when prompted.
+
+## 📊 Contains:
+✔ Sales Analytics  
+✔ Profitability  
+✔ Category Summary  
+✔ Store Performance  
+✔ Dashboard Theme Colors  
+
+## 📁 Folder Structure
+- **/data** → CSV files used in Power BI  
+- **/theme** → Power BI color theme  
+- **/template** → Power BI Template  
